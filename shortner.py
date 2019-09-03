@@ -1,7 +1,7 @@
 import bitly_api
 
-API_USER = "naveennirban"
-API_KEY = "R_583061bd02004cd6af21af95b7c93839"
+API_USER = "bitly username here"
+API_KEY = "your api key here"
 bitly = bitly_api.Connection(API_USER, API_KEY)
 print("Do not enter prefix https://")
 pre_input="https://"
