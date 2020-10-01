@@ -8,3 +8,4 @@ Install the setup file by python using "python setup.py install"
 Now you have to configure your bitly username & api_key.
 Login to bitly.com & get username while your api-key will be at "http://bitly.com/a/your_api_key"
 After configuring the username & api-key, Now you are good to go.
+#NaveenNirbanYadav
